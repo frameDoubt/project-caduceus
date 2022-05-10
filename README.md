@@ -11,3 +11,8 @@
 ```
 npm install
 ```
+2. Run game build step.
+```
+npm run start
+```
+This should create a file `game.js`
