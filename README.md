@@ -21,4 +21,4 @@ npm run start
 ```
 python3 -m http.server
 ```
-4. Running development environment enter `localhost:8000' into browser address bar.
+4. Running development environment enter `localhost:8000` into browser address bar.
