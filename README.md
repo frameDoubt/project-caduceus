@@ -15,4 +15,8 @@ npm install
 ```
 npm run start
 ```
-This should create a file `game.js`
+  This should create a file `game.js`
+3. Enter following in root folder to serve the development environment.
+```
+python3 -m http.server
+```
