@@ -15,9 +15,10 @@ npm install
 ```
 npm run start
 ```
-  This should create a file `game.js`  
+  This will create a file `game.js`  
     
 3. Enter following in root folder to serve the development environment.
 ```
 python3 -m http.server
 ```
+4. Running development environment enter `localhost:8000' into browser address bar.
